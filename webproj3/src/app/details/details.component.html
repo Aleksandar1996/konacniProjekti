@@ -1,0 +1,17 @@
+<h1>{{ user.name }}</h1>
+
+<ul>
+  <li><strong>Username:</strong> {{ user.username }}</li>
+  <li><strong>Email:</strong> {{ user.email }}</li>
+  <li><strong>Phone:</strong> {{ user.phone }}</li>
+</ul>
+<button class="rm_friend" *ngIf="followed===1" (click)="stopFollowing()">Stop following</button>
+<button class="rm_friend" *ngIf="followed===0" (click)="startFollowing()">Start following</button>
+<h1>User posts</h1>
+
+<ul>
+  <li *ngFor="let post of userPosts">
+    <p class="post">{{ post.title }}</p>
+    <p>{{ post.body }}</p>
+</li>
+</ul>

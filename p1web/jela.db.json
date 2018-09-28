@@ -1,0 +1,19 @@
+{
+    "jela": [
+        {
+            "ime": "pica - \"Margherita\"",
+            "cena": 450,
+		    "slika": "./src/slike/margarita.jpg"
+        },
+        {
+            "ime": "pica - \"Capricciosa\"",
+            "cena": 500,
+		    "slika": "./src/slike/kapricoza.jpg"
+        },
+        { 
+            "ime": "pica - \"Quattro stagioni\"",
+            "cena": 550,
+		    "slika": "./src/slike/stagioni.jpg"
+        }
+    ]
+}

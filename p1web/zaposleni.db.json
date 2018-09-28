@@ -1,0 +1,22 @@
+{
+    "zaposleni": [
+        {
+            "id": 1,
+            "ime": "Aleksandar Stojanovic",
+            "nick": "aca",
+            "lozinka": 1996
+        },
+        {
+            "id": 2,
+            "title": "Filip Stanojkovic",
+            "nick": "fica",
+            "lozinka": 1996
+        },
+        {
+            "id": 3,
+            "title": "Dimitrije Zlatkovic",
+            "nick": "dimi",
+            "lozinka": 1996
+        }
+    ]
+}

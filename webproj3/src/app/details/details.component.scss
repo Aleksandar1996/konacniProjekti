@@ -1,0 +1,28 @@
+.rm_friend{
+    position: relative;
+    background-color: #00A8FF;//rgb(18, 140, 180);
+    color: white;
+    left: 43%;
+    height:43px; 
+    border: 2px solid;
+    border-radius: 6px; 
+    border: none;
+    padding: 16px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.1s;
+    text-decoration: none;
+}
+.rm_friend:hover{
+    background-color: rgb(186, 202, 207);
+    color: rgb(82, 43, 43);
+}
+.post{
+    font-size: 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+    color:#00A8FF;
+}

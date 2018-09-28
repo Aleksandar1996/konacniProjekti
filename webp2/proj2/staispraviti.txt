@@ -1,0 +1,2 @@
+nece da zapamti stanje zbog http zahteva u render funkciji--obrati paznju na to
+ubaci ruter neki,lako je

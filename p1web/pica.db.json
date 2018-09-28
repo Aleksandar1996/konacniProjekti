@@ -1,0 +1,50 @@
+{
+    "pica": [
+        {
+            "ime": "turska kafa",
+            "cena": 70,
+		    "slika": "./src/slike/kafa.jpg"
+        },
+        {
+            "ime": "Golf sok",
+            "cena": 80,
+	 	    "slika": "./src/slike/sok_golf.jpg"
+        },
+        {
+            "ime": "Coca Cola",
+            "cena": 100,
+	 	    "slika": "./src/slike/kokakola.jpg"
+        },
+        {
+            "ime": "Pepsi",
+            "cena": 100,
+	 	    "slika": "./src/slike/pepsi.jpg"
+        },
+        {
+            "ime": "pivo u krigli",
+            "cena": 120,
+	 	    "slika": "./src/slike/krigla.jpg"
+        },
+        {
+            "ime": "Lasko pivo",
+            "cena": 100,
+	 	    "slika": "./src/slike/lasko_pivo.jpg"
+        },
+        {
+            "ime": "Lav pivo",
+            "cena": 100,
+	 	    "slika": "./src/slike/lav_pivo.jpg"
+        },
+        {
+            "ime": "Zajecarsko pivo",
+            "cena": 100,
+	 	    "slika": "./src/slike/zajecarsko_pivo.jpg"
+        },
+        {
+            "ime": "Guinness pivo",
+            "cena": 130,
+	 	    "slika": "./src/slike/ginis_pivo.jpg"
+        }
+    ]
+
+}

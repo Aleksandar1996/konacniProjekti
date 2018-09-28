@@ -1,0 +1,233 @@
+.gui{
+    width: 1349px;
+    height: 660px;
+    position:relative;
+    bottom:9px;
+    right:8px;
+}
+.ui{
+    width: 100%;
+    height: 100%;
+    /*position:relative;
+    bottom:9px;
+    right:8px;*/
+}
+.naslov{
+    width: 100%;
+    height: 17%;
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+    opacity: 0.8;
+}
+.naslov_text{
+    font-size: 50px;
+    position:relative;
+    left:20px;
+    bottom:75px;
+    font-style:italic;
+}
+.iznos{
+    opacity: 0.8;
+}
+.red1{
+    height: 8%;
+    width: 100%;
+    position:relative;
+    top:17%;
+}
+.desno{
+    float: right;
+}
+.red2{
+    width:100%;
+    height:50%;
+    position:relative;
+    top:20%;
+}
+.isti_red{
+    display: inline-block;
+}
+.red22{
+    width: 25%;
+    height: 100%;
+}
+.red21{
+    width: 25%;
+    height: 100%;
+    position:relative;
+    left:13px;
+}
+.red211{
+    width: 100%;
+    height: 50%;
+    position: relative;
+    bottom: 15px;
+}
+.red212{
+    width: 100%;
+    height: 50%
+}
+.lista{
+    width: 80%;
+    height: 90%;
+    position:relative;
+    top: 5px;
+}
+.slika{
+    width:60%;
+    height: 90%;
+    position:relative;
+    left:10%;
+}
+.detalji{
+    height: 100%;
+    width: 50%;
+    float: center;
+    position: relative;
+    bottom: 5%;
+}
+.detalji1{
+    height: 85%;
+    width: 100%;
+}
+.kolicina{
+    width:4%;
+    height: 8%;
+    position:relative;
+    left:20%;
+    bottom:50%;
+}
+.x{
+    position: relative;
+    bottom:50%;
+    left:15%;
+}
+.dodaj{
+    position:relative;
+    left:40%;
+    height:100%;
+    width:20%;
+}
+.detalji2{
+    height:15%;
+    width:100%;
+}
+.kspisak{
+    height:5%;
+}
+.lista1{
+    height:80%;
+    width:100%;
+    position:relative;
+    top:5px;
+}
+.ceo_red{
+    display:block;
+}
+.red3{
+    height:40%;
+    width:100%;
+    position:relative;
+    top:20%;
+}
+.treci_deo{
+    height:33%;
+    width:20%;
+    position:relative;
+    top:10%;
+    left: 40%;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 130%;
+}
+.dugme_size{
+    height: 50px;
+    width: 77px;
+    display:block;
+    position:relative;
+    top:10%;
+    left:45%;
+}
+.dugme{
+    border-color: black;
+    z-index: 1;
+}
+.dugme_size1{
+    height: 50px;
+    display:block;
+    position:relative;
+    top:17%;
+    left:40%;
+}
+.d{
+    height:10%;
+    position:relative;
+    left:40%;
+    top:4%;
+}
+.d1{
+    height: 10%;
+    position:relative;
+    left:34%;
+    top:7%;
+}
+.centar{
+    width:20%;
+    height:30%;
+    position: relative;
+    top:45%;
+    left:40%;
+    vertical-align: middle;
+}
+.login{
+    position:relative;
+    top:50px;
+    left:35%;
+    height:15%;
+}
+.login_unos{
+    position:relative;
+    top: 3px;
+}
+.centar2{
+    position:relative;
+    top:5px;
+}
+.najveca_vaznost{
+    position: absolute;
+    z-index: 2;
+}
+.opcija{
+    margin: 1px;
+    text-align: center;
+}
+.zaobljen{
+    border-radius: 25px;
+}
+.zaobljen:hover{
+    border-color:#ccff00;
+}
+.centar1{
+    position:relative;
+    top: 35px;
+    left: 45px;
+}
+.dugmeta{
+    width: 100.6%;
+    height: 200px;
+    position:relative;
+    top:67px;
+}
+.ime_zaposlenog{
+    position:relative;
+    left:80%;
+    bottom:85px;
+}
+.odjava{
+    position:relative;
+    left:85%;
+    bottom:80px;
+    height:50px;
+    width:75px;
+}

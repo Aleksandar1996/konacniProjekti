@@ -1,0 +1,19 @@
+{
+  "highscores": [
+    {
+      "id": 1,
+      "nick": "coa",
+      "preostalo_poteza": 10
+    },
+    {
+      "id": 2,
+      "nick": "nick1",
+      "preostalo_poteza": 15
+    },
+    {
+      "id": 3,
+      "nick": "nick2",
+      "preostalo_poteza": 20
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+json-server korisnici.db.json
+json-server --port 3001 postovi.db.json
+json-server --port 3002 followedUsrs.db.json
+ng serve -o
